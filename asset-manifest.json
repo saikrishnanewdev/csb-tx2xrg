@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/css/main.c189237e.chunk.css",
+    "main.js": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/main.c905a990.chunk.js",
+    "main.js.map": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/main.c905a990.chunk.js.map",
+    "runtime-main.js": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/runtime-main.d7ceeb30.js",
+    "runtime-main.js.map": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/runtime-main.d7ceeb30.js.map",
+    "static/js/2.1755e726.chunk.js": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/2.1755e726.chunk.js",
+    "static/js/2.1755e726.chunk.js.map": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/2.1755e726.chunk.js.map",
+    "index.html": "https://saikrishnanewdev.github.io/csb-tx2xrg/index.html",
+    "static/css/main.c189237e.chunk.css.map": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/css/main.c189237e.chunk.css.map",
+    "static/js/2.1755e726.chunk.js.LICENSE.txt": "https://saikrishnanewdev.github.io/csb-tx2xrg/static/js/2.1755e726.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ceeb30.js",
+    "static/js/2.1755e726.chunk.js",
+    "static/css/main.c189237e.chunk.css",
+    "static/js/main.c905a990.chunk.js"
+  ]
+}
